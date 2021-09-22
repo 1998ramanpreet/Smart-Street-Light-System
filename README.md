@@ -1,10 +1,6 @@
 # Smart Street Light System
 This project describes implementation of arduino based Smart Street Light System
 ![alt text](https://github.com/1998ramanpreet/Smart-Street-Light-System/blob/main/ssls2.jpg?raw=true)
-![alt text](https://github.com/1998ramanpreet/Smart-Street-Light-System/blob/main/ssls.jpg?raw=true)
-
-
-
 # Working
 The smart street light system controls the intensity of light and automatically operates on detection of light. The street light system depends on the external light source. When its day time the lights are automatically switched off and it operates during night or evening time. On detecting the object on roads, the intensity of the following street lights is increased and  other remain operating at lower intensity, thereby saving power. 
 
@@ -20,7 +16,7 @@ For intensity control, each street light contains an IR sensor, which detects th
 When the vehicle passes the 1st street light and heads towards the 2nd one , now the 2nd and the 3rd one glows with maximum intensity and the 1st one back with lower intensity. 
 When the vehicle passes through the last one, the last street light glows with  maximum intensity whereas the other two are glowing at low intensity. 
 When the IR sensor doesn't sense any vehicle during the night time, the street lights will remain glowing at low intensity. 
-
+![alt text](https://github.com/1998ramanpreet/Smart-Street-Light-System/blob/main/ssls.jpg?raw=true)
 
 # Demo video
 
