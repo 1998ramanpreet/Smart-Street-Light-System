@@ -1,6 +1,6 @@
 # Smart Street Light System
 This project describes implementation of arduino based Smart Street Light System
-
+![alt text](https://github.com/1998ramanpreet/Smart-Street-Light-System/blob/main/ssls2.jpg?raw=true)
 ![alt text](https://github.com/1998ramanpreet/Smart-Street-Light-System/blob/main/ssls.jpg?raw=true)
 
 
