@@ -7,9 +7,9 @@
 //**********************************************************************
 //--- Declarations---
 //**********************************************************************
-int ir1=2;                                  //IR Sensor 1
-int ir2=3;                                  //IR Sensor 2
-int ir3=4;                                  //IR Sensor 3
+int ir1=2;                                  //Input IR Sensor 1
+int ir2=3;                                  //Input IR Sensor 2
+int ir3=4;                                  //Input IR Sensor 3
 int led1=5;                                 //Output LEDs 1
 int led2=6;                                 //Output LEDs 2
 int led3=10;                                //Output LEDs 3
@@ -24,7 +24,7 @@ void setup()
     pinMode(5,OUTPUT);                      //Define PIN as Digital Output
     pinMode(6,OUTPUT);                      //Define PIN as Digital Output
     pinMode(10,OUTPUT);                     //Define PIN as Digital Output
-    pinMode(A0,OUTPUT);                     //Define PIN as Analog Output
+    pinMode(A0,INPUT);                      //Define PIN as Analog Input
     Serial.begin(9600);                     //Define Baudrate for Serial Communication
 }
 //**********************************************************************
