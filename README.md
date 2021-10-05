@@ -30,3 +30,8 @@ When the IR sensor doesn't sense any vehicle during the night time, the street l
 
 https://user-images.githubusercontent.com/60216456/133921334-cffe8e83-1d8d-47a8-8790-2be65ae9b433.mp4
 
+## Team Members
+- [Shikha Singhal](https://github.com/shikhasinghal2075)
+- [Simran Priyashi]
+- [Trishna Aryal](https://github.com/trishnaaryal)
+
