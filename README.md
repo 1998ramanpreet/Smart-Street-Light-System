@@ -32,6 +32,6 @@ https://user-images.githubusercontent.com/60216456/133921334-cffe8e83-1d8d-47a8-
 
 ## Team Members
 - [Shikha Singhal](https://github.com/shikhasinghal2075)
-- [Simran Priyashi]
+- Simran Priyashi
 - [Trishna Aryal](https://github.com/trishnaaryal)
 
